@@ -1,0 +1,7 @@
+D:\Git\WordSetUtil\MathLib\bin\Debug\MathLib.exe.config
+D:\Git\WordSetUtil\MathLib\bin\Debug\MathLib.exe
+D:\Git\WordSetUtil\MathLib\bin\Debug\MathLib.pdb
+D:\Git\WordSetUtil\MathLib\obj\Debug\MathLib.csprojAssemblyReference.cache
+D:\Git\WordSetUtil\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+D:\Git\WordSetUtil\MathLib\obj\Debug\MathLib.exe
+D:\Git\WordSetUtil\MathLib\obj\Debug\MathLib.pdb
